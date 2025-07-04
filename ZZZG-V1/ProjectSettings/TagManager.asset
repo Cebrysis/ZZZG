@@ -41,6 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Deep
+    uniqueID: 2922810601
+    locked: 0
+  - name: Ground
+    uniqueID: 3618829831
+    locked: 0
+  - name: Decoration
+    uniqueID: 2016771963
+    locked: 0
   - name: Character
     uniqueID: 2836300671
     locked: 0

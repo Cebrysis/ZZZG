@@ -88,6 +88,7 @@ public class PlayerController : MonoBehaviour
     }
 
 
+
     private void UpdateAnimation()
     {
         bool isMoving = _moveDir.sqrMagnitude > 0;
